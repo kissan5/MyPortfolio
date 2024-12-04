@@ -10,7 +10,7 @@ function App() {
       <div className="flex flex-col min-h-screen">
         {/* Navbar at the top */}
         <NavBar />
-        
+
         {/* Main content area */}
         <main className="flex-grow">
           <Routes>
@@ -18,7 +18,7 @@ function App() {
             {/* Add more routes here */}
           </Routes>
         </main>
-        
+
         {/* Footer at the bottom */}
         <Footer />
       </div>
