@@ -4,7 +4,7 @@ const NavBar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-white text-gray-800 backdrop-blur-lg fixed w-full z-50 shadow-sm">
+    <nav className="bg-white mx-auto  text-gray-800 backdrop-blur-lg fixed w-full z-50 shadow-sm">
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
