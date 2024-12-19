@@ -38,11 +38,17 @@ function HomePage() {
           <div className="mt-4 text-xl md:text-2xl text-gray-300">
             <TypeAnimation
               sequence={[
-                "Frontend Developer 💻",
+                "Frontend Developer & UI Artist 🎨",
                 2000,
-                "UI/UX Enthusiast 🎨",
+                "Creative Web Designer ✨",
                 2000,
-                "Problem Solver 🧩",
+                "Digital Experience Creator 💫",
+                2000,
+                "UI/UX Architect 🔮",
+                2000,
+                "Visual Storyteller 🎬",
+                2000,
+                "Pixel Perfect Developer 💻",
                 2000,
               ]}
               repeat={Infinity}
