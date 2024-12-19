@@ -44,18 +44,6 @@ function HomePage() {
                 2000,
                 "Problem Solver 🧩",
                 2000,
-                "React Ninja ⚡",
-                2000,
-                "Pixel Perfect Pro 🎯",
-                2000,
-                "Vibes Curator ✨",
-                2000,
-                "Code Artist 🎨",
-                2000,
-                "Digital Craftsman 🛠️",
-                2000,
-                "Tech Explorer 🚀",
-                2000,
               ]}
               repeat={Infinity}
             />
